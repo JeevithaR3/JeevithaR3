@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevithar3" alt="jeevithar3" /></a> </p>
 
-- 🌱 I’m currently learning **Devops**
+- I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JeevithaR3](https://github.com/JeevithaR3)
+- All of my projects are available at [https://github.com/JeevithaR3](https://github.com/JeevithaR3)
 
-- 📫 How to reach me **https://www.linkedin.com/in/jeevitha-r-2160b7325/**
+- How to reach me **https://www.linkedin.com/in/jeevitha-r-2160b7325/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
